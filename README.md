@@ -1,4 +1,4 @@
 # leil-es-
 leilões
-apçicação para assessorar com leilões 
+aplicação para assessorar com leilões 
 Tecnologias utilizadas (exemplo: Java e MySQL)
